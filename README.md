@@ -41,7 +41,7 @@ Repository used for Greenfox Academy Course assignments (November 2020 - Septemb
 -  *Week 27: Break Week*
 
 ## Project Phase
-*In the final weeks, we worked as a small team with a Project Leader to create the backend application for a "Clash of the Clans" type game*
+*In the final weeks, we worked as a small team with a Project Leader <br>to create the backend application for a "Clash of the Clans" type game*
 - Introduced to new technologies/tools including:
   - Spring Security
   - JWT
